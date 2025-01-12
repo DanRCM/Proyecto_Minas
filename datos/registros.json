@@ -1,0 +1,24 @@
+[
+    {
+        "equipo_1_horas": 267.0000000000001,
+        "equipo_2_horas": 97.79999999999998,
+        "equipo_3_horas": -410.9333333333335,
+        "limite_tiempo": 200,
+        "colores": [
+            "rojo",
+            "verde",
+            "rojo"
+        ]
+    },
+    {
+        "equipo_1_horas": 1.6538461538461537,
+        "equipo_2_horas": 4.384615384615386,
+        "equipo_3_horas": 3.692307692307691,
+        "limite_tiempo": 20,
+        "colores": [
+            "verde",
+            "verde",
+            "verde"
+        ]
+    }
+]
